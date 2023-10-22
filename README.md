@@ -1,5 +1,7 @@
 # 💫 About Me:
-Soy un chico creativo que le gusta aprender cosas nuevas. 📖<br>Actualmente soy estudiante y mu pronto voy a empezar a buscar mi primer empleo como desarrollador. 👨🏻‍💻<br>Me gusta mucho leer, el baloncesto y salir con amigos 🤓
+Soy un apasionado desarrollador informático, listo para enfrentar cualquier desafío que se cruce en mi camino. Mi experiencia se centra en el mundo de la programación, especialmente en proyectos utilizando Python, tanto en entornos de consola como en interfaces gráficas (Tkinter). Además, he incursionado en el desarrollo web, utilizando frameworks como Vue, Nuxt y React para crear sitios dinámicos y atractivos.
+
+Mi enfoque de trabajo se basa en la dedicación, la curiosidad y el deseo constante de mejorar. Soy un entusiasta del aprendizaje y siempre estoy buscando nuevas oportunidades para crecer como profesional. Además, tengo experiencia trabajando con herramientas de control de versiones como Git y GitHub, lo que me permite colaborar eficientemente en proyectos colaborativos.
 
 
 ## 🌐 Socials:
